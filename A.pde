@@ -1,8 +1,6 @@
-//Eu, (nome), declaro por minha honra que este programa foi escrito por mim, durante a
-//festa de 22 de maio de 2020, e que não recebi ajuda de ninguém. 
+// 22 de maio de 2020
+// MAURO SANTOS
 
-
-//MAURO SANTOS - A68013 - 919740088
 void settings() {
   COLUNAS = mapa.length;
   LINHAS = mapa[0].length;
